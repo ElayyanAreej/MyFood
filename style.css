@@ -1,0 +1,105 @@
+ main{
+    width: 85%;
+    text-align: center;
+    margin: 0 40px 0 40px ; 
+    padding: 0;
+}
+
+
+#section1 div{
+    display: inline-block;
+    width: 15%;
+    float:none;
+    margin: 0 50px 10px 50px ; 
+
+}
+
+#section1 div img{
+        width: 250px;
+        height: 400px;
+   }
+
+  #section1 div p{
+    width: 100%;
+    height: 100%;
+    font-size: 0.9pc;
+    text-align: center;
+    margin: 0;
+    margin: 2px 25px 2px 25px;
+  }
+
+  #section1 div h2
+  {text-align: center;
+    width: 100%;
+    height: 100%;
+    font-size: 0.9pc;
+    margin: 2px 25px 2px 25px;
+  }
+header{
+    height: 10%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: white;
+}
+ h1,#mailH,nav{
+     width: 33.3%;
+    float: left; 
+    /* padding: 0 10px 0 0 ;  */
+    text-align: center; 
+    font-size: 1.5pc;
+  }
+
+  header img{
+    height: 90px;
+    width: 60px;
+  }
+
+  /* 
+div{
+    clear: both;
+     margin: 0 15px 0 15px ;
+     padding: 0 40px ;  
+    text-align: center;
+}
+
+
+p,div.h2{
+    text-align: center;
+    width: 100%;
+    height: 100%;
+  
+}
+
+a,h1,#mailH{
+    display: inline-block;
+    float: left;
+    /* margin: 0 45px;
+    padding: 0 10px ; 
+    text-align: center;
+
+    }
+
+    h1,#mailH{
+        margin-left: 450px;
+        /* padding: 0 10px ;
+        text-align: center;
+        
+
+        }
+#menu{
+    height: 90px;
+    width: 60px;
+}
+ul{
+    clear: both;
+}
+#sec2img{
+    
+    width: 400px;
+    height: 400px;
+}
+#section2{
+    width: 85%;
+    margin: 0 200px; 
+}  */ 
